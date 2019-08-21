@@ -1,0 +1,6 @@
+digikala1 <- read.csv('E:/DataSpecialization/Python, MachinLearning - Mesbahi/Digikala/1-k9d5q7lw.csv')
+library(readxl)
+digikala2 <- read_excel('E:/DataSpecialization/Python, MachinLearning - Mesbahi/Digikala/2-p9vcb5bb.xlsx')
+digikala3 <- read.csv('E:/DataSpecialization/Python, MachinLearning - Mesbahi/Digikala/3-p5s3708k.xlsx')
+reviews <- read_excel('E:/DataSpecialization/Python, MachinLearning - Mesbahi/Digikala/4-oska9ni8.xlsx')
+digikala5 <- read_excel('E:/DataSpecialization/Python, MachinLearning - Mesbahi/Digikala/5-awte8wbd.xlsx')
